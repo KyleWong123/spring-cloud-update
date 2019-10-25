@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f24a751d-49be-47eb-a18a-62e52468aaaf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-consumer-without-eureka/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-consumer-without-eureka/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nwlogs/logs/log_debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/nwlogs/logs/log_debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nwlogs/logs/log_error.log" beforeDir="false" afterPath="$PROJECT_DIR$/nwlogs/logs/log_error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nwlogs/logs/log_info.log" beforeDir="false" afterPath="$PROJECT_DIR$/nwlogs/logs/log_info.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nwlogs/logs/log_warn.log" beforeDir="false" afterPath="$PROJECT_DIR$/nwlogs/logs/log_warn.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nwlogs/logs/warn/log-warn-2019-10-18.0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nwlogs/logs/warn/log-warn-2019-10-21.0.log" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/microservice-discovery-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-provider-user/target/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <ignored path="$PROJECT_DIR$/microservice-consumer-movie/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-discovery-eureka-ha/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-provider-usercopy/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-consumer-movie-without-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-consumer-without-eureka/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-consumer-movie/src/main/java/com/example/microserviceconsumermovie/config/RestTemplateConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-consumer-without-eureka/src/main/java/com/example/microserviceconsumerwithouteureka/MicroserviceConsumerWithoutEurekaApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-consumer-without-eureka/src/main/java/com/example/microserviceconsumerwithouteureka/config/RestTemplateConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-consumer-without-eureka/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="864">
+              <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-consumer-without-eureka/src/test/java/com/example/microserviceconsumerwithouteureka/MicroserviceConsumerWithoutEurekaApplicationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="12" column="3" selection-end-line="13" />
+              <folding>
+                <element signature="e#0#299#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-consumer-movie/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-consumer-without-eureka/src/main/java/com/example/microserviceconsumerwithouteureka/controller/ConsumerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-consumer-movie/src/main/java/com/example/microserviceconsumermovie/controller/ConsumerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/microservice-consumer-without-eureka/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="76" lean-forward="true" selection-start-line="8" selection-start-column="76" selection-end-line="8" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-provider-user/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="40" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ribb</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/microservice-provider-user/src/main/java/com/example/microserviceprovideruser/model/User.java" />
+        <option value="$PROJECT_DIR$/microservice-provider-user/src/main/java/com/example/microserviceprovideruser/MicroserviceProviderUserApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-consumer-movie/src/main/java/com/example/microserviceconsumermovie/model/User.java" />
+        <option value="$PROJECT_DIR$/microservice-consumer-movie/src/main/java/com/example/microserviceconsumermovie/MicroserviceConsumerMovieApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-discovery-eureka-ha/src/main/java/com/example/microservicediscoveryeurekaha/MicroserviceDiscoveryEurekaHaApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-provider-user/src/main/java/com/example/microserviceprovideruser/service/UserService.java" />
+        <option value="$PROJECT_DIR$/microservice-provider-user/src/main/java/com/example/microserviceprovideruser/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/microservice-provider-user/src/main/java/com/example/microserviceprovideruser/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/microservice-provider-user/src/main/java/com/example/microserviceprovideruser/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/microservice-provider-user/src/main/resources/mapper/userMapper.xml" />
+        <option value="$PROJECT_DIR$/microservice-discovery-eureka-ha/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/microservice-discovery-eureka-ha/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-provider-user/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-discovery-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-discovery-eureka/src/main/java/com/example/microservicediscoveryeureka/MicroserviceDiscoveryEurekaApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-discovery-eureka-ha/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-consumer-movie/src/main/java/com/example/microserviceconsumermovie/config/RestTemplateConfig.java" />
+        <option value="$PROJECT_DIR$/microservice-discovery-eureka/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/microservice-provider-user1/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-provider-usercopy/src/main/java/com/example/microserviceproviderusercopy/model/User.java" />
+        <option value="$PROJECT_DIR$/microservice-provider-usercopy/src/main/java/com/example/microserviceproviderusercopy/service/UserService.java" />
+        <option value="$PROJECT_DIR$/microservice-provider-usercopy/src/main/java/com/example/microserviceproviderusercopy/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/microservice-provider-usercopy/src/main/java/com/example/microserviceproviderusercopy/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/microservice-provider-usercopy/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-provider-usercopy/src/test/java/com/example/microserviceproviderusercopy/MicroserviceProviderUsercopyApplicationTests.java" />
+        <option value="$PROJECT_DIR$/microservice-provider-user/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/microservice-provider-usercopy/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/microservice-provider-user/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/microservice-provider-usercopy/src/main/java/com/example/microserviceproviderusercopy/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/microservice-provider-usercopy/src/main/resources/mapper/userMapper.xml" />
+        <option value="$PROJECT_DIR$/microservice-consumer-movie/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/microservice-consumer-movie/src/main/java/com/example/microserviceconsumermovie/controller/ConsumerController.java" />
+        <option value="$PROJECT_DIR$/microservice-consumer-movie/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-provider-usercopy/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/microservice-consumer-movie/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/microservice-consumer-movie-without-eureka/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/microservice-consumer-movie-without-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-consumer-movie-without-eureka/src/main/java/com/example/microserviceconsumermoviewithouteureka/config/RestTemplateConfig.java" />
+        <option value="$PROJECT_DIR$/microservice-consumer-movie-without-eureka/src/main/java/com/example/microserviceconsumermoviewithouteureka/controller/ConsumerController.java" />
+        <option value="$PROJECT_DIR$/microservice-consumer-movie-without-eureka/src/main/java/com/example/microserviceconsumermoviewithouteureka/MicroserviceConsumerMovieWithoutEurekaApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-consumer-without-eureka/src/main/java/com/example/microserviceconsumerwithouteureka/model/User.java" />
+        <option value="$PROJECT_DIR$/microservice-consumer-without-eureka/src/main/java/com/example/microserviceconsumerwithouteureka/controller/ConsumerController.java" />
+        <option value="$PROJECT_DIR$/microservice-consumer-without-eureka/src/main/java/com/example/microserviceconsumerwithouteureka/config/RestTemplateConfig.java" />
+        <option value="$PROJECT_DIR$/microservice-consumer-without-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-consumer-without-eureka/src/test/java/com/example/microserviceconsumerwithouteureka/MicroserviceConsumerWithoutEurekaApplicationTests.java" />
+        <option value="$PROJECT_DIR$/microservice-consumer-without-eureka/src/main/resources/application.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="213" />
+    <option name="y" value="236" />
+    <option name="width" value="1400" />
+    <option name="height" value="628" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers PackagesPane="true" ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-consumer-without-eureka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-consumer-without-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-consumer-without-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-consumer-without-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-cloud" type="58d84e3e:PackageViewProjectNode" />
+              <item name="microservice-consumer-movie" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="58d84e3e:PackageViewProjectNode" />
+              <item name="microservice-consumer-movie" type="616d4139:PackageViewModuleNode" />
+              <item name="com.example.microserviceconsumermovie" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/microservice-consumer-without-eureka" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.microserviceconsumerwithouteureka.model" />
+      <recent name="com.example.microserviceconsumerwithouteureka.controller" />
+      <recent name="com.example.microserviceconsumerwithouteureka.config" />
+      <recent name="com.example.microserviceconsumermovie.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myProject\microservice-consumer-without-eureka" />
+      <recent name="D:\myProject\microservice-consumer-without-eureka\src\main\resources" />
+      <recent name="D:\myProject\microservice-consumer-movie-without-eureka\src\main\java\com\example\microserviceconsumermoviewithouteureka" />
+      <recent name="D:\myProject\microservice-consumer-movie-without-eureka\src\main\resources" />
+      <recent name="D:\myProject\microservice-provider-usercopy\src\main\resources" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8070/user/userfindall" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.31709957" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.MicroserviceConsumerWithoutEurekaApplication">
+    <configuration name="MicroserviceDiscoveryEurekaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.microservicediscoveryeureka.MicroserviceDiscoveryEurekaApplication" />
+      <module name="microservice-discovery-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.microservicediscoveryeureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceProviderUsercopyApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.microserviceproviderusercopy.MicroserviceProviderUsercopyApplication" />
+      <module name="microservice-provider-usercopy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.microserviceproviderusercopy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceProviderUserApplication#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/MicroserviceProviderUserApplication.http">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="microservice-consumer-movie-without-eureka" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="microservice-consumer-movie-without-eureka" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceConsumerMovieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-consumer-movie" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.microserviceconsumermovie.MicroserviceConsumerMovieApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceConsumerWithoutEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-consumer-without-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.microserviceconsumerwithouteureka.MicroserviceConsumerWithoutEurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceDiscoveryEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-discovery-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.microservicediscoveryeureka.MicroserviceDiscoveryEurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceDiscoveryEurekaHaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-discovery-eureka-ha" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.microservicediscoveryeurekaha.MicroserviceDiscoveryEurekaHaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceProviderUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-provider-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.microserviceprovideruser.MicroserviceProviderUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceProviderUsercopyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-provider-usercopy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.microserviceproviderusercopy.MicroserviceProviderUsercopyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MicroserviceDiscoveryEurekaApplication" />
+      <item itemvalue="Application.MicroserviceProviderUsercopyApplication" />
+      <item itemvalue="HTTP Request.MicroserviceProviderUserApplication#1" />
+      <item itemvalue="Spring Boot.MicroserviceConsumerMovieApplication" />
+      <item itemvalue="Spring Boot.MicroserviceDiscoveryEurekaApplication" />
+      <item itemvalue="Spring Boot.MicroserviceDiscoveryEurekaHaApplication" />
+      <item itemvalue="Spring Boot.MicroserviceProviderUserApplication" />
+      <item itemvalue="Spring Boot.MicroserviceProviderUsercopyApplication" />
+      <item itemvalue="Spring Boot.MicroserviceConsumerWithoutEurekaApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MicroserviceProviderUsercopyApplication" />
+        <item itemvalue="Application.MicroserviceDiscoveryEurekaApplication" />
+        <item itemvalue="HTTP Request.MicroserviceProviderUserApplication#1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f24a751d-49be-47eb-a18a-62e52468aaaf" name="Default Changelist" comment="" />
+      <created>1570590744721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570590744721</updated>
+      <workItem from="1570590749671" duration="11337000" />
+      <workItem from="1570675525050" duration="7905000" />
+      <workItem from="1570697994220" duration="300000" />
+      <workItem from="1570698416496" duration="1285000" />
+      <workItem from="1570699829770" duration="2241000" />
+      <workItem from="1570755421225" duration="4149000" />
+      <workItem from="1570860354479" duration="10437000" />
+      <workItem from="1571014019757" duration="37293000" />
+      <workItem from="1571271924864" duration="12616000" />
+      <workItem from="1571301575137" duration="18987000" />
+      <workItem from="1571812129152" duration="8334000" />
+      <workItem from="1571827721619" duration="7223000" />
+      <workItem from="1571907386727" duration="1092000" />
+      <workItem from="1571909337339" duration="2687000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="125886000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1977612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35369775" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32976446" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.36441585" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3290461" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32976446" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.3376206" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26012793" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30513918" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32976446" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.36509636" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32976446" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.2869379" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/microservice-discovery-eureka-ha/src/main/java/com/example/microservicediscoveryeurekaha/MicroserviceDiscoveryEurekaHaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-discovery-eureka-ha/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-consumer-movie/src/main/java/com/example/microserviceconsumermovie/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-discovery-eureka/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../maven/repository/org/springframework/cloud/spring-cloud-starter-netflix-eureka-server/2.1.3.RELEASE/spring-cloud-starter-netflix-eureka-server-2.1.3.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="30" column="57" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/repository/org/springframework/cloud/spring-cloud-commons/2.1.3.RELEASE/spring-cloud-commons-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalanced.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-discovery-eureka/src/main/java/com/example/microservicediscoveryeureka/MicroserviceDiscoveryEurekaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-user1/src/main/java/com/example/microserviceprovideruser/model/User.java" />
+    <entry file="file://$PROJECT_DIR$/microservice-provider-user1/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/microservice-provider-user1/src/main/java/com/example/microserviceprovideruser/controller/UserController.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/microservice-provider-usercopy/src/main/java/com/example/microserviceproviderusercopy/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-usercopy/src/main/java/com/example/microserviceproviderusercopy/MicroserviceProviderUsercopyApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-usercopy/src/main/java/com/example/microserviceproviderusercopy/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-usercopy/src/main/java/com/example/microserviceproviderusercopy/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-user/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2403">
+          <caret line="89" selection-start-line="16" selection-start-column="4" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-usercopy/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-928">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-usercopy/src/test/java/com/example/microserviceproviderusercopy/MicroserviceProviderUsercopyApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-user/src/main/java/com/example/microserviceprovideruser/MicroserviceProviderUserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-usercopy/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-user/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-discovery-eureka/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-usercopy/src/main/java/com/example/microserviceproviderusercopy/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-user/src/main/java/com/example/microserviceprovideruser/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="34" column="1" selection-start-line="2" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-user/src/main/resources/mapper/userMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-usercopy/src/main/java/com/example/microserviceproviderusercopy/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-usercopy/src/main/resources/mapper/userMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-consumer-movie/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="32" column="53" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-usercopy/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-consumer-movie/src/main/java/com/example/microserviceconsumermovie/MicroserviceConsumerMovieApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-consumer-movie-without-eureka/src/main/resources/logback-spring.xml" />
+    <entry file="file://$PROJECT_DIR$/microservice-consumer-movie-without-eureka/src/main/resources/application.properties" />
+    <entry file="jar://$PROJECT_DIR$/../maven/repository/org/springframework/spring-web/5.1.10.RELEASE/spring-web-5.1.10.RELEASE.jar!/org/springframework/web/client/RestTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="86" column="75" selection-start-line="86" selection-start-column="75" selection-end-line="86" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-consumer-movie-without-eureka/src/main/java/com/example/microserviceconsumermoviewithouteureka/controller/ConsumerController.java" />
+    <entry file="file://$PROJECT_DIR$/microservice-consumer-movie-without-eureka/src/main/java/com/example/microserviceconsumermoviewithouteureka/config/RestTemplateConfig.java" />
+    <entry file="file://$PROJECT_DIR$/../maven/repository/org/springframework/boot/spring-boot-starter-parent/2.2.0.RELEASE/spring-boot-starter-parent-2.2.0.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="208" column="16" selection-start-line="208" selection-start-column="16" selection-end-line="208" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-consumer-movie-without-eureka/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/microservice-consumer-movie-without-eureka/src/main/java/com/example/microserviceconsumermoviewithouteureka/model/User.java" />
+    <entry file="file://$PROJECT_DIR$/microservice-consumer-movie-without-eureka/src/main/java/com/example/microserviceconsumermoviewithouteureka/MicroserviceConsumerMovieWithoutEurekaApplication.java" />
+    <entry file="file://$PROJECT_DIR$/microservice-consumer-without-eureka/src/main/java/com/example/microserviceconsumerwithouteureka/model/User.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-consumer-movie/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-881">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-consumer-movie/src/main/java/com/example/microserviceconsumermovie/config/RestTemplateConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-consumer-without-eureka/src/main/java/com/example/microserviceconsumerwithouteureka/MicroserviceConsumerWithoutEurekaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-consumer-without-eureka/src/main/java/com/example/microserviceconsumerwithouteureka/config/RestTemplateConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-consumer-without-eureka/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-consumer-without-eureka/src/test/java/com/example/microserviceconsumerwithouteureka/MicroserviceConsumerWithoutEurekaApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="3" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-consumer-movie/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-consumer-without-eureka/src/main/java/com/example/microserviceconsumerwithouteureka/controller/ConsumerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-user/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-consumer-movie/src/main/java/com/example/microserviceconsumermovie/controller/ConsumerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-consumer-without-eureka/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="76" lean-forward="true" selection-start-line="8" selection-start-column="76" selection-end-line="8" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>microservice-discovery-eureka-ha</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
